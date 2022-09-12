@@ -6,7 +6,7 @@ Recently I've been getting more and more into ML, and so have been interacting m
 
 I'll be honest and admit that I've avoided Python as it frustrates me.
 
-But the only tool that isn't complained about, is the tool that is never used. Everything has its flaws. :)
+But the only tool that isn't complained about, is the tool that is never used. Everything useful has its flaws. :)
 
 # How I Deal with Python and Keep My Sanity
 
