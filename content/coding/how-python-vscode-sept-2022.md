@@ -1,6 +1,6 @@
 # How to VSCode, Docker and Python in Sept 2022
 
-I am an experienced coder but I am not a python expert.
+I am an experienced coder but I am not a [Python](https://www.python.org) expert.
 
 Recently I've been getting more and more into ML, and so have been interacting more with python.
 
