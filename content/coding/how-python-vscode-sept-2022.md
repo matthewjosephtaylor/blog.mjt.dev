@@ -2,7 +2,7 @@
 
 I am an experienced coder but I am not a [Python](https://www.python.org) expert.
 
-Recently I've been getting more and more into ML, and so have been interacting more with python.
+Recently I've been getting more and more into ML, and so have been interacting more with Python.
 
 I'll be honest and admit that I've avoided Python as it frustrates me.
 
