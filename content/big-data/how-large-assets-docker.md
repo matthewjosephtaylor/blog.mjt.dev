@@ -33,7 +33,7 @@ I'd suggest sticking with a naming convention that will make it obvious what it 
 
 Effectively the image tag becomes the [URI](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier) of the asset, which makes it easy both computationally and cognitively to deal with.
 
-Importantly this tag is universal and can be pulled/pushed and referenced across machines.
+Importantly this tag is universal and can be pulled/pushed and referenced across machines using the existing Docker registry/repository infrastructure.
 
 ## Use Image Assets
 
